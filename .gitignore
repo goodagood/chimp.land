@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+# vim swap files:
+*~
+*.swp
+*.swo
+*.pyc
+#plain/static/tmp/vid2
