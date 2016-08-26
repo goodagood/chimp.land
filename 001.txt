@@ -157,11 +157,14 @@ The structure is still under cuttings, 0821.
 古德尔的手伸向一只幼年猩猩的手， 一边是纤细的女性的手，
 在耐心等待， 一边是黝黑多毛尚未完成进化的手， 
 他的目光在犹豫， 他的手想缩回， 这形成一幅著名的照片， 
-是相隔五百万年的两只手。
-古德尔仍然继续观察着猩猩，
+是相隔五百万年的两只手。 古德尔仍然继续观察着猩猩，
+
 十年， 三十年， 五十年，一代， 两代， 三代黑猩猩，
 后来她仍然美丽， 仍然身体瘦弱，
 然而她的目光中逐渐凝聚岁月和智慧的光。
+
+双手之间的犹豫， 已经无法回避， 
+我们将取来这小小的一团迷茫， 把它拉伸为长长的线索。
 
 然而， 一条线索如果已经延展五百万年， 
 它的弹力可能超过太空弹射。 这样的力量， 
@@ -172,8 +175,7 @@ The structure is still under cuttings, 0821.
 必然不会有简单的构图。 虽然，
 我们将尽力简化并且加速穿过。
 
-你准备好了吗， 迷宫打开前， 
-这是最后的机会， 请转身离去。
+你准备好了吗， 迷宫打开前， 这是一次转身离去的机会。
 
 一群猩猩， 当它们的生活被胶片和磁带记录，
 成为人类可以观赏的节目。 猩猩们不知道
@@ -5409,6 +5411,11 @@ T 的头部就是战列舰一线列队， 抢过敌军战列舰队形头部，
 柯林分队即将冲入敌阵前， 柯林转身对军官们说：
 “现在， 先生们， 干点让这个世界从此记住的事。”
 
+ ```
+ [Cuthbert Collingwood, 1st Baron Collingwood](https://en.wikipedia.org/wiki/Cuthbert_Collingwood,_1st_Baron_Collingwood)
+ ```
+
+
 当柯林分队冲入敌阵25分钟后， 
 纳尔战队亦冲入敌阵， 
 纳尔身后英舰几乎鱼贯而入，
@@ -5539,11 +5546,8 @@ T 的头部就是战列舰一线列队， 抢过敌军战列舰队形头部，
 去翻阅这一空间已经凝固的故事。
 
 
- ```
- [Cuthbert Collingwood, 1st Baron Collingwood](https://en.wikipedia.org/wiki/Cuthbert_Collingwood,_1st_Baron_Collingwood)
- ```
 
-copied from github
+拷贝自 copied from github
 [chimpsland/story](https://github.com/chimpsland/story/blob/master/001.txt)
 
 
