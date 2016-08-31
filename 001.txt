@@ -22,7 +22,7 @@ The structure is still under cuttings, 0821.
 如果， 傻瓜有一个点.
 就是， 有一点的傻瓜.
 
-:-)
+If a stupid get a bit, it's a bit stupid :-)
 
 如果有任意的维度， 
 能不能在一个点内提供足够的自由？
