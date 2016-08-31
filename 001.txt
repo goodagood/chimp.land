@@ -1,6 +1,7 @@
+# Chimp's Land
 
 A stupid start to trying to find a group of prehistory
-humans, groups of chimps following them, their footprints
+humans, groups of chimps following them, the homo's footprints
 lost in time.  Two cats was running to catch the stupid,
 one white, one black.  The groups of homo sapiens was
 caught by chimps and slaved in countries, after long long
@@ -14,7 +15,8 @@ would be GPL, MIT, Apache or any compatible ones, so anyone
 can use it as fit, if author's opions cause no trouble to
 any one.
 
-The structure is still under cuttings, 0821.
+(The structure is still under cuttings, 0821.
+ Keep In String, Stories. 0831)
 
 
 # 猩猩国度 {{{1
@@ -63,7 +65,10 @@ If a stupid get a bit, it's a bit stupid :-)
 如果要有名字的话， 
 就叫猩猩国度。
 
-(远末完工， 结构尚在切割， 时间已经所剩无几。)
+Chimp's Land.
+
+(0821, 远末完工， 结构尚在切割， 时间已经所剩无几。
+ 0831, 保持简单的线索。)
 
 # 古德尔 {{{1
 
@@ -80,7 +85,7 @@ If a stupid get a bit, it's a bit stupid :-)
 青年时， 她是一位美女， 几乎体现了古典美学的定义， 
 笔直的鼻梁和收敛的下巴， 仿佛微笑刚才消失。
 消瘦的肩部， 有点细弱的胳膊腿，
-相当灵活的身体但是没有过分的运动天赋。
+相当灵活的身体但是没有过于强大的运动天赋。
 有漫卷的金发， 凝聚的双眸和略为羞涩的神态。
 
 她仍然钟爱猩猩。 这显然是一种独特的偏好，
@@ -4406,10 +4411,14 @@ DNA 测试证实了， 人类分享了源血。
 你们的一所劳动农场一年的屠宰量， 
 让人几十年的死亡总量都追不上，
 却被称为无产阶级的教育或者改造或者帮助。
+如果可以指定这里是大屠杀， 无产阶级理论家们，
+请告诉我， 哪里是地狱， 哪里是无产阶级？
+你们挖的坟在哪里？
 
 和落入无产阶级理论家手中相比， 
 也许面对剥头皮的印第安人都有更多生存机会。
 
+我们是跟随黄金舰队来这里的，
 黄金依然发出迷人的色彩， 但是作为货币的能力逐渐消失，
 后来美元也曾经和黄金挂钩， 但是很快就脱钩了， 
 这段历史是有点跳跃了。 但是黄金已经无法铺垫价值台阶， 
