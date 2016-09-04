@@ -335,7 +335,7 @@ Chimp's Land.
 确认死亡后它们离去， 雄壮的背影慢慢晃动着消失在树从中。
 
 尘埃落下， 光影依旧， 山坡和树林不再有恐怖的吼声。 
-血， 浸湿一小块泥土， 这种粘稠的液体中， 
+血， 浸湿一小块泥土， 这种粘稠的液体中， 据说， 
 有和我的血液样品超过98%的基因重合度，
 血， 温暖了一小块土， 
 把它变成暗色而且湿润的泥， 留在林间引蚂蚁爬过。
@@ -2072,6 +2072,10 @@ Godel 一直在尝试证明了一个本体论的论点，
 [Godel-ontological-proof-wiki]: https://en.wikipedia.org/wiki/Gödel's_ontological_proof
 [anselm-wiki-zh]: https://zh.wikipedia.org/wiki/坎特伯雷的安瑟莫
 [model-logic-zh]: https://zh.wikipedia.org/wiki/模态逻辑
+
+[goodogood repository](repositor://github.com/goodagood/gg.git)
+[goodogood prototype](http://goodogood.me)
+
 ```
 
 
@@ -2102,7 +2106,7 @@ Godel 一直在尝试证明了一个本体论的论点，
 GPL，MIT，Apache， 就请直接抄出你的一份吧， 让我们一起作弊。
 
 
-# 欧洲 {{{2
+## 欧洲 {{{2
 
 
 从公元前8世纪（800BC）， 希腊是神话般的时期， 有很多男神女神， 
@@ -4573,6 +4577,9 @@ DNA 测试证实了， 人类分享了源血。
 
   ```
   [西班牙人用的船](https://zh.wikipedia.org/wiki/加利恩帆船)
+
+  [goodogood repository](repositor://github.com/goodagood/gg.git)
+  [goodogood prototype](http://goodogood.me)
   ```
 
 英国的库克船长也来到太平洋了，  
@@ -4764,6 +4771,9 @@ DNA 测试证实了， 人类分享了源血。
 
 ```
 [polynesian_navigation]: https://en.wikipedia.org/wiki/Polynesian_navigation
+
+[goodogood repository](repositor://github.com/goodagood/gg.git)
+[goodogood prototype](http://goodogood.me)
 ```
 
 ## 船仓和牢房 {{{2
@@ -5866,16 +5876,30 @@ Fear Nothing.
 也许还能找回纳尔之魂。
 
 
+# end of part 1
+
+20160802, 21, 31
+作者不在， 大猫不来
+The author might be out, 
+no one want big brother's cat.  
+
+
+Repo on github is more suitable to be cloned, 
+by "git clone ..." you can check out the repo, 
+and no need to ask web page renderring. Only
+2 files contain the text: 001.txt and 002.txt
+
+To clone the repository:
+
+    git clone https://github.com/chimpsland/story.git
+
+
 拷贝自 copied from github
 [chimpsland/story](https://github.com/chimpsland/story/blob/master/001.txt)
 
 
 To be continue by [./002.txt](https://github.com/chimpsland/story/blob/master/002.txt)
 
-20160802, 21, 31
-作者不在， 大猫不来
-The author might be out, 
-no one want big brother's cat.  
 
 
 
